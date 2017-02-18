@@ -13,6 +13,8 @@ Example projects to control include:
 * IR Transmitters to control TV's, DVD's, etc
 * RF Transmitters to control light switches, outlets, etc
 
+Project Page: https://www.hackster.io/eely22/universe-remote-5830e2
+
 ###PCB 
 The PCB is available on OSH Park:
 
